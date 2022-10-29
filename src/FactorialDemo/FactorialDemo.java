@@ -28,8 +28,7 @@ public class FactorialDemo {
       }
       
       
-      System.out.println(num+"factorial is :"+fact);
-      
+     System.out.println("Number "+num+" factorial is :"+fact);
       
       
       

@@ -8,7 +8,7 @@ public class FactorialDemo {
     public static void main(String[]args)
     {
     
-    //variable diclararion area
+    //variable diclaration area
         
       int num,i,fact=1;
       
